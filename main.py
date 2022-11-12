@@ -33,7 +33,7 @@ print("""
 ║ ██║  ██║ ╚██████╔╝      ██║ ██╔╝ ██╗      ╚████╔╝   ██║ ██╗  ██║ ║
 ║ ╚═╝  ╚═╝  ╚═════╝       ╚═╝ ╚═╝  ╚═╝       ╚═══╝    ╚═╝ ╚═╝  ╚═╝ ║
 ╚══════════════════════════════════════════════════════════════════╝
-\n[Created By CatsSomeCat#3869 & 'AMIR#6762]
+\n[Created By CatsSomeCat#3869 & ' 神 AMIR ZєRᎧ#3333]
 [Okami Discord Server : https://discord.gg/GDAqqt9B]\n
 """)
 
